@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/consumo-rest/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/consumo-rest/static/js/main.9826dfe8.chunk.js",
+    "main.js.map": "/consumo-rest/static/js/main.9826dfe8.chunk.js.map",
+    "runtime-main.js": "/consumo-rest/static/js/runtime-main.471bd120.js",
+    "runtime-main.js.map": "/consumo-rest/static/js/runtime-main.471bd120.js.map",
+    "static/css/2.aa564478.chunk.css": "/consumo-rest/static/css/2.aa564478.chunk.css",
+    "static/js/2.d31476a0.chunk.js": "/consumo-rest/static/js/2.d31476a0.chunk.js",
+    "static/js/2.d31476a0.chunk.js.map": "/consumo-rest/static/js/2.d31476a0.chunk.js.map",
+    "index.html": "/consumo-rest/index.html",
+    "precache-manifest.f6976f11fc2652829e36e60f4b3fec13.js": "/consumo-rest/precache-manifest.f6976f11fc2652829e36e60f4b3fec13.js",
+    "service-worker.js": "/consumo-rest/service-worker.js",
+    "static/css/2.aa564478.chunk.css.map": "/consumo-rest/static/css/2.aa564478.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/consumo-rest/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d31476a0.chunk.js.LICENSE.txt": "/consumo-rest/static/js/2.d31476a0.chunk.js.LICENSE.txt",
+    "static/media/primeicons.css": "/consumo-rest/static/media/primeicons.e01fd413.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.471bd120.js",
+    "static/css/2.aa564478.chunk.css",
+    "static/js/2.d31476a0.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9826dfe8.chunk.js"
+  ]
+}
